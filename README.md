@@ -1,5 +1,7 @@
 Debes tener instalado Python3 y la libreria ipwhois para correr el programa
 
+![Captura](https://github.com/user-attachments/assets/83e2ddc8-23f2-47d4-876f-c6a299e7198c)
+
 ![Captura4](https://github.com/user-attachments/assets/af757e3f-6a6c-42d8-be8e-5e7d7a6ebf22)
 
 ![Captura2](https://github.com/user-attachments/assets/249a0520-c5ca-49f3-b497-1e932baeafbf)
